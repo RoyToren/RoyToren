@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I’m Roy Toren 👋
 
 <!--
 **RoyToren/RoyToren** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 👋 Hi, I’m Roy Toren
 - 🔭 I’m currently working on my thesis which mostly involves geometric processing
 - 👀 I’m interested in Computer Vision, Web and Math
 - 🌱 I’m currently finishing my Masters in Computer Science
