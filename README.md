@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-👋 Hi, I’m Roy Toren
-🔭 I’m currently working on my thesis which mostly involves geometric processing
-👀 I’m interested in Computer Vision, Web and Math
-🌱 I’m currently finishing my Masters in Computer Science
-💞️ I’m looking to collaborate on various topics
-📫 You can reach me at roytoren95@gmail.com
+- 👋 Hi, I’m Roy Toren
+- 🔭 I’m currently working on my thesis which mostly involves geometric processing
+- 👀 I’m interested in Computer Vision, Web and Math
+- 🌱 I’m currently finishing my Masters in Computer Science
+- 💞️ I’m looking to collaborate on various topics
+- 📫 You can reach me at roytoren95@gmail.com
